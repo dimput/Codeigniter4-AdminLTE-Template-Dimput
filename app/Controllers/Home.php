@@ -21,7 +21,7 @@ class Home extends BaseController
 	public function pages($i)
 	{
 		// return $i;
-		return view('pages/'.$i.'.html');
+		return view('pages/'.$i);
 	}
 	public function others($i,$j)
 	{
