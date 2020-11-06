@@ -1,5 +1,5 @@
 # AdminLTE + CodeIgniter 4 Framework
-![capture](/public/distku/img/capture.png =250x)
+![capture](public/distku/img/capture.png =250x)
 
 ## What is CodeIgniter?
 
